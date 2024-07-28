@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ethan\\source\\repos\\Deliverable2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C051949C-C25B-49BD-9D6F-8BF05C38952D}|Deliverable2\\Deliverable2.csproj|c:\\users\\ethan\\source\\repos\\deliverable2\\deliverable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C051949C-C25B-49BD-9D6F-8BF05C38952D}|Deliverable2\\Deliverable2.csproj|solutionrelative:deliverable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ethan\\source\\repos\\Deliverable2\\Deliverable2\\Program.cs",
+              "RelativeDocumentMoniker": "Deliverable2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ethan\\source\\repos\\Deliverable2\\Deliverable2\\Program.cs",
+              "RelativeToolTip": "Deliverable2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:17:41.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
